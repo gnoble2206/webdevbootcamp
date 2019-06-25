@@ -1,15 +1,15 @@
-#Associations
+# Associations
 
-##Intro to Associations
+## Intro to Associations
 * Define associations
 * Discuss one:one, one:many, and many:many relationships
 
-##Embedding Data
+## Embedding Data
 User
 Post
 
-##Referencing Data
+## Referencing Data
 
-##Module.Exports
+## Module.Exports
 * Introduce module.exports
 * Move our models into seperate files
